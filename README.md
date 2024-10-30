@@ -1,1 +1,1 @@
-# Ray_and_Visualization
+# 3D model
